@@ -94,7 +94,6 @@ document.addEventListener('DOMContentLoaded', function() {
   // Inicia a primeira música
   updateMusic();
 
-
   // Fechando e Abrindo o Modal
   const Modal = {
     wrapper: document.querySelector('.modal-wrapper'),
